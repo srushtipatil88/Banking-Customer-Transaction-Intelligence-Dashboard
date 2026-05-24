@@ -1,4 +1,4 @@
-## Credit Card Financial Dashboard – Description for GitHub
+## Credit Card Financial Dashboard –
 
 This project is an interactive **Credit Card Financial Dashboard** developed to analyze customer behavior, transaction trends, revenue generation, and financial performance using data visualization techniques. The dashboard provides a comprehensive overview of credit card operations and helps stakeholders make data-driven decisions.
 
